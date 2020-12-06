@@ -647,8 +647,8 @@ export const DB = {
   categories: [
     {
       id: 1,
-      name: "Line Pipes",
-      description: "Line Pipes",
+      name: "Frac Trees",
+      description: "Frac Trees",
       picture: null,
     },
     {
@@ -658,52 +658,40 @@ export const DB = {
       picture: null,
     },
     {
-        id: 1,
-        name: "Line Pipes",
-        description: "Line Pipes",
-        picture: null,
-      },
-      {
-        id: 2,
-        name: "OCTG",
-        description: "OCTG",
-        picture: null,
-      },
-      {
-        id: 3,
-        name: "Line Pipes",
-        description: "Line Pipes",
-        picture: null,
-      },
-      {
-        id: 4,
-        name: "OCTG",
-        description: "OCTG",
-        picture: null,
-      },
-      {
-        id: 5,
-        name: "Line Pipes",
-        description: "Line Pipes",
-        picture: null,
-      },
-      {
-        id: 6,
-        name: "OCTG",
-        description: "OCTG",
-        picture: null,
-      },
-      {
-        id: 7,
-        name: "Line Pipes",
-        description: "Line Pipes",
-        picture: null,
-      },
-      {
-        id: 8,
-        name: "OCTG",
-        description: "OCTG",
-        picture: null,
-      },
+      id: 3,
+      name: "Line Pipes",
+      description: "Line Pipes",
+      picture: null,
+    },
+    {
+      id: 4,
+      name: "Wireline Lubricants",
+      description: "Wireline Lubricants",
+      picture: null,
+    },
+    {
+      id: 5,
+      name: "Grease Units",
+      description: "Grease Units",
+      picture: null,
+    },
+    {
+      id: 6,
+      name: "Bits & Reamers",
+      description: "Bits & Reamers",
+      picture: null,
+    },
+    {
+      id: 7,
+      name: "Choke Manifolds",
+      description: "Choke Manifolds",
+      picture: null,
+    },
+    {
+      id: 8,
+      name: "Cased Hole Motors",
+      description: "Cased Hole Motors",
+      picture: null,
+    },
   ],
 };
