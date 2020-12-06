@@ -19,8 +19,7 @@ const data = {
     { text: "DashBoard", icon: <Assessment />, link: "/dashboard" },
     { text: "Customer", icon: <PermIdentity />, link: "/customers" },
     { text: "Order", icon: <ShoppingCartOutlinedIcon />, link: "/orders" },
-    { text: "Product", icon: <StoreOutlinedIcon />, link: "/products" },
-    { text: "About", icon: <InfoOutlinedIcon />, link: "/about" }
+    { text: "Product", icon: <StoreOutlinedIcon />, link: "/products" }
   ],
   userMenus: [
     { text: "Sign out", icon: <SettingsPower />, link: "/login" },
