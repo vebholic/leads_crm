@@ -36,6 +36,7 @@ const useStyles = (navDrawerOpen: boolean, isSmallScreen: boolean) => {
     appBar: {
       position: "fixed",
       top: 0,
+      backgroundColor: '#09445A',
       overflow: "hidden",
       maxHeight: 58,
       minHeight: 0,
